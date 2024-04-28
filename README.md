@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Adeniji Ademola
+Oyediji Marvellous
 
 ## License
 Public Domain. No copy write protection. 
